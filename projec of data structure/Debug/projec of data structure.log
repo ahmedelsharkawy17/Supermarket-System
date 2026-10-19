@@ -1,0 +1,13 @@
+﻿  project.cpp
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(80,20): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(84,18): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(215,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(225,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(236,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(249,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(260,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(261,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(262,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(275,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\msi\source\repos\projec of data structure\projec of data structure\project.cpp(333,20): warning C4101: 'pnn': unreferenced local variable
+  projec of data structure.vcxproj -> C:\Users\msi\source\repos\projec of data structure\Debug\projec of data structure.exe
